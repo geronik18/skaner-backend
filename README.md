@@ -1,2 +1,0 @@
-# skaner-backend
-skaner-backend
